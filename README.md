@@ -94,6 +94,25 @@ plots/                 Figures and visualizations
 
 ---
 
+## Data Processing Pipeline
+
+American Presidency Project
+          ↓
+      Kaggle JSON
+          ↓
+Cleaning
+          ↓
+Sentence segmentation
+          ↓
+eMFDscore
+          ↓
+PCA
+          ↓
+Dynamic projection analysis
+          ↓
+Figures & paper
+
+---
 ## Paper
 
 The complete paper is included in this pdf file.
