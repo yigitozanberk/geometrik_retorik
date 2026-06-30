@@ -44,9 +44,19 @@ To investigate this question, every available U.S. presidential speech between *
 
 ## Dataset
 
-Source:
+The original presidential corpus used in this project was obtained from the **American Presidency Project** (University of California, Santa Barbara), which provides public access to United States presidential documents.
 
+The JSON version of the corpus (`presidency.json`) was downloaded from Kaggle and subsequently processed for this research.
+
+Original data source:
 - The American Presidency Project (University of California, Santa Barbara)
+  https://www.presidency.ucsb.edu/
+
+Kaggle dataset:
+- https://www.kaggle.com/
+  (https://www.kaggle.com/datasets/jayrav13/american-presidency-project)
+
+The processed datasets included in this repository were generated as part of this project.
 
 Coverage:
 
